@@ -1,5 +1,5 @@
 # Bank storage security console
-***
+
 ## Description
 
 This web application allows you to monitor access to bank storage.You can get information about active passcards, all visits by any user and users in storage at right moment. 
@@ -25,5 +25,5 @@ You need to create .env file with such strings:
 ### Then just open your browser and type:
 >127.0.0.1:8000
 
-##Project goals
+## Project goals
 The code is written for educational purposes. Training course for web-developers https://dvmn.org/.
